@@ -1,0 +1,171 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.main {
+   display: flex;
+   margin: 0 auto;
+   width: 1200px;
+   height: 1319px;
+}
+
+.main_content {
+   background-color: #FFFFFF;
+   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+   padding: 105px 90px;
+}
+ 
+.sidebar {
+ background-color:#1E2939;
+ color: #FFFFFF;
+ padding-top: 40px;
+ width: 370px;
+}
+
+img {
+    height: 370px;
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+.sidebar_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.contacts_box {
+    margin-left: 40px;
+    margin-top: 65px;
+}
+
+.contact_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 12px;
+}
+.contact_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #af7bad;
+}
+
+.tech_skills {
+    margin-top: 50px;
+    margin-bottom: 45px;
+}
+
+.list_sidebar {
+    padding: 0;
+    margin-left: 17px;
+}
+
+.list_text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.list_item_side {
+color: purple;
+}
+
+.position {
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000;
+}
+
+.name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-top: 18px;
+    margin-bottom: 25px;
+}
+.description 
+.list_description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.description {
+    width: 400px;
+}
+
+.list_description{
+    width: 525px;
+}
+
+.about {
+    margin-bottom: 40px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+.purple_text {
+    color: purple;
+}
+
+.education,
+.job_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.duration {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #3d3030;
+    margin-bottom: 8;
+    margin-top: 10;
+}
+.work_experience {
+    margin-top: 30px;
+    margin-bottom: 43px;
+    width: 510px;
+}
+
+.project_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #681159;
+}
+
+.item_list {
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #582248;
+margin-right: 13px;
+}
